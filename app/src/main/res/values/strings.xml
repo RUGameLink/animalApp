@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Картинки с животными</string>
+    <string name="button_text">Найти картинку</string>
+    <string name="button_history">История поисков</string>
+    <string name="button_save">Поделиться</string>
+
+    <string-array name="animals">
+        <item>Aardvark</item>
+        <item>Anteater</item>
+        <item>Bat</item>
+        <item>Bat-eared fox</item>
+        <item>Bear</item>
+        <item>Bee</item>
+        <item>Binturong</item>
+        <item>Bird</item>
+        <item>Bobcat</item>
+        <item>Bunny</item>
+        <item>Capuchin</item>
+        <item>Caracal</item>
+        <item>Cat</item>
+        <item>Cheetah</item>
+        <item>Cow</item>
+        <item>Deer</item>
+        <item>Dog</item>
+        <item>Duck</item>
+        <item>Echidna</item>
+        <item>Elk</item>
+        <item>Fennec fox</item>
+        <item>Ferret</item>
+        <item>Fish</item>
+        <item>Fox</item>
+        <item>Gecko</item>
+        <item>Giraffe</item>
+        <item>Goat</item>
+        <item>Gorilla</item>
+        <item>Gray fox</item>
+        <item>Guinea pig</item>
+        <item>Hamster</item>
+        <item>Hedgehog</item>
+        <item>Highland cattle</item>
+        <item>Hippo</item>
+        <item>Horse</item>
+        <item>Hummingbird</item>
+        <item>Hyena</item>
+        <item>Iguana</item>
+        <item>Jaguar</item>
+        <item>Kangaroo</item>
+
+
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
